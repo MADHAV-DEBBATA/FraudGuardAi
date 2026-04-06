@@ -34,3 +34,4 @@ An AI-powered real-time financial protection system built entirely with Python a
 
 ---
 Powered by FraudGuard AI Engine v2.4.0 • © 2026 SecureFin Technologies
+# FraudGuardAI
