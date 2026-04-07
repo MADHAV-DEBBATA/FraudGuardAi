@@ -232,7 +232,7 @@ elif page == "Real-time Detection":
             with st.spinner("Processing through Deep Neural Network..."):
                 
                 # Setup payload for API Call
-                api_url = "http://localhost:8000/predict"
+                api_url = "https://fraud-guard-ai-git-main-madhav-debbatas-projects.vercel.app/predict"
                 payload = {
                     "amount": float(amount),
                     "time": float(time_val),
